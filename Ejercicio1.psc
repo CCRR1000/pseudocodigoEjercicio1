@@ -1,4 +1,4 @@
-Algoritmo Ejercicio1_13
+Algoritmo Ejercicio1
 	
 	Definir N, pares, impares Como Entero
 	
